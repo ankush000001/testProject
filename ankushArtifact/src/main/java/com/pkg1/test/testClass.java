@@ -57,6 +57,7 @@ public class testClass {
 		System.out.println();
 	}
 
+<<<<<<< HEAD
 	
 	public void rename()
 	
@@ -70,4 +71,6 @@ public void rename2()
 	{
 		System.out.println("using git gui");
 	}
+=======
+>>>>>>> f111261b811b4e71b01da0047f9bf6e1a65dbf0a
 }
