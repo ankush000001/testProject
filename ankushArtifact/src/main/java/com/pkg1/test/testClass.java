@@ -72,4 +72,9 @@ public void rename2()
 		System.out.println("using git gui");
 	}
 
+
+public void added()
+{
+	System.out.println("added additionally ");
+}
 }
