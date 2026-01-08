@@ -22,4 +22,11 @@ public class baseClass {
 	{
 		System.out.println("method calling through testng test");
 	}
+	
+	
+	@Test
+	public void z()
+	{
+		System.out.println("method calling through testng test");
+	}
 }
