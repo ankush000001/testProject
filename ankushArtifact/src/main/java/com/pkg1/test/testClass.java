@@ -63,4 +63,11 @@ public class testClass {
 	{
 		System.out.println("using git gui");
 	}
+	
+	
+public void rename2()
+	
+	{
+		System.out.println("using git gui");
+	}
 }
