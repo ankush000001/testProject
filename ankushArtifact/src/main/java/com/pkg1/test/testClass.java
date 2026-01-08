@@ -41,7 +41,6 @@ public class testClass {
 		testone.quit();
 	}
 
-
 	@Test
 	public void first () throws Exception {
 		testone = new RemoteWebDriver(new URL("http://localhost:4444"), new ChromeOptions());
@@ -50,5 +49,12 @@ public class testClass {
 
 
 
+}
+	
+	
+	public void testing()
+	{
+		System.out.println();
+	}
 
-}}
+}
